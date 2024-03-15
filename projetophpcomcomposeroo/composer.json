@@ -1,0 +1,10 @@
+{
+    "name": "admin/projetophpcomcomposeroo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Projetophpcomcomposeroo\\": "src/"
+        }
+    },
+    "require": {}
+}
